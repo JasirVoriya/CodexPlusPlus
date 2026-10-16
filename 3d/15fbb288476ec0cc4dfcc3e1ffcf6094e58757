@@ -1,0 +1,23 @@
+apps/codex-plus-manager/src/dream-skin.test.ts
+  s_d70251c56f2a73::t_06d133b9f16ed9 143
+assets/inject/dream-skin-community-compat.css
+  s_d70251c56f2a73::t_91e4523ac67977 35-78
+crates/codex-plus-core/src/assets.rs
+  s_d70251c56f2a73::t_77df4252ac043e 145,738-767
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3d15fbb288476ec0cc4dfcc3e1ffcf6094e58757",
+  "prompts": {},
+  "sessions": {
+    "s_d70251c56f2a73": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a14335-234b-78d3-9a6e-0775d5918907",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "JasirVoriya <jasirvoriya@gmail.com>"
+    }
+  }
+}
